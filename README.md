@@ -30,6 +30,7 @@ This repository serves as a comprehensive portfolio for the project. The goal of
 
 **Summary:** A demonstration of practical coding skills and proficiency in cloud-based collaboration. Features a solved introductory Python challenge and a functional digital awareness quiz designed for peer assessment.
 * **Tools Used:** HackerRank, Google Workspace (Forms & Sheets).
+* **google form link:** https://docs.google.com/forms/d/e/1FAIpQLSe3TNThtq9ZZ-s6uC-ThhuNIAppvP711eHvnY4Uipajm_U9Jw/viewform?usp=publish-editor
 
 
 ### 4. [Task 4: Professional Communication](./task-4-email-etiquette)
